@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://HongyueWu1994.github.io/introduction/</loc>
-    <lastmod>2018-01-27T15:42:17+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://HongyueWu1994.github.io/education/</loc>
     <lastmod>2018-06-17T19:11:34+08:00</lastmod>
   </url>
@@ -18,7 +13,16 @@
   </url>
   
   <url>
+    <loc>https://HongyueWu1994.github.io/research/</loc>
+  </url>
+  
+  <url>
     <loc>https://HongyueWu1994.github.io/skills/</loc>
+    <lastmod>2018-06-17T19:11:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HongyueWu1994.github.io/student-activities/</loc>
     <lastmod>2018-06-17T19:11:34+08:00</lastmod>
   </url>
   
@@ -28,7 +32,8 @@
   </url>
   
   <url>
-    <loc>https://HongyueWu1994.github.io/research/</loc>
+    <loc>https://HongyueWu1994.github.io/introduction/</loc>
+    <lastmod>2018-01-27T15:42:17+01:00</lastmod>
   </url>
   
   <url>
